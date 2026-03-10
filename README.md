@@ -8,11 +8,11 @@ This repository contains multiple supervised learning projects designed to study
 
 ### 1.1 Binary Classification
 
-* Spam vs Non-spam detection ✅
+* **Spam vs Non-spam detection** 
 * Disease present vs absent
-* Fraud vs legitimate transaction ✅
+* **Fraud vs legitimate transaction** 
 * Loan default vs non-default 
-* Fake vs real news ✅
+* **Fake vs real news** 
 * Intrusion detection (attack / normal)
 * Customer churn (leave/stay)
 * Image contains object / not
@@ -21,13 +21,13 @@ This repository contains multiple supervised learning projects designed to study
 
 ### 1.2 Multi-Class Classification
 
-* Handwritten digit recognition ✅
+* Handwritten digit recognition 
 * Object category recognition
 * Document topic classification 
 * Medical diagnosis (multiple diseases)
 * Emotion classification (text, speech)
-* Traffic sign recognition ✅
-* Language identification ✅
+* Traffic sign recognition 
+* Language identification 
 * Crop type classification (remote sensing)
 
 ---
