@@ -21,10 +21,10 @@ This repository contains multiple supervised learning projects designed to study
 
 ### 1.2 Multi-Class Classification
 
-*** Handwritten digit recognition** 
-*** Fruits classification**
+* **Handwritten digit recognition** 
+* **Fruits classification**
 * Medical diagnosis (multiple diseases)
-*** Emotion classification (speech)**
+* **Emotion classification (speech)**
 * Traffic sign recognition 
 * Language identification 
 * Crop type classification (remote sensing)
